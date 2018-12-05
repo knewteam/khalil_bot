@@ -1,0 +1,42 @@
+{
+  "description": "Allow your app to engage in small talk about a variety of topics.",
+  "language": "pt-br",
+  "shortDescription": "Small talk topics to help make your bot more personable",
+  "examples": "User: Olá!\nUser: Está tudo bem?\nUser: Obrigado!\nUser: De nada.\nUser: E aí?\nUser: Estou entediado.\nUser: Estou brincando.\nUser: Muito bem!\nUser: Quem é você?\nUser: Quantos anos você tem?\nUser: Você é inteligente.\nUser: O que você faz para se divertir?",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "vaibot-a4ac3",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "url": "https://us-central1-khalil-dab1c.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": false,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.2,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "dialogBuilderMode": false
+}
