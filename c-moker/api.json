@@ -1,0 +1,22 @@
+{
+	"car_status" : {
+		"failures" : { 
+			"failure_1" : "Nível de óleo baixo, você deve trocar o óleo e verificar se há vazamentos",
+			"failure_2" : "falha no nível de bateria, posso agendar uma revisão?"
+		}
+	},
+	"destiny_positions" : {
+		"latitude" : -8.03,
+		"longitude" : -34.85
+	},
+	"is_parked" : true,
+	"last_trip" : {
+		"consuption" : 13.30,
+		"miliage" : 25.30
+	},
+	"position" : {
+		"latitude" : 23231.00,
+		"longitude" : -34.86
+	},
+	"total_mileage" : 400.00 
+}
