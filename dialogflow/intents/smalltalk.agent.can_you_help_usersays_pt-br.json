@@ -1,0 +1,110 @@
+[
+  {
+    "id": "e7b06463-c03c-4ee3-be9c-a1cd575fcf09",
+    "data": [
+      {
+        "text": "preciso de ajuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "44823dba-3f96-45c1-bccb-92a48946e15e",
+    "data": [
+      {
+        "text": "preciso que faça algo para mim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df9888c1-eac1-4d3b-ac86-d0d9e8d437bd",
+    "data": [
+      {
+        "text": "preciso de uma mão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b712ae05-b93d-496a-a4d8-d1308fe770a4",
+    "data": [
+      {
+        "text": "você pode me ajudar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6468cfa-bdaa-437d-9114-5293bca626dd",
+    "data": [
+      {
+        "text": "pode fazer uma coisinha para mim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87ed8b3c-726d-4404-a895-96ae5bf766a7",
+    "data": [
+      {
+        "text": "me ajude com um problema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef1a05ad-b9da-4173-bb38-723929fd2b66",
+    "data": [
+      {
+        "text": "pode me ajudar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed7ff24a-a67d-4ec2-b29e-4023bb1dc529",
+    "data": [
+      {
+        "text": "me ajude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c1efede-24f6-4741-9f1b-5a57b4e54a0c",
+    "data": [
+      {
+        "text": "assistência",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

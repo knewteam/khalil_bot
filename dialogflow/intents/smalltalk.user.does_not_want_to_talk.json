@@ -1,0 +1,29 @@
+{
+  "id": "9ab7572a-ef77-4fe4-a900-b5587b10f011",
+  "name": "smalltalk.user.does_not_want_to_talk",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.does_not_want_to_talk",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Ok. Vou me desligar até o fim desta viajem."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611375,
+  "fallbackIntent": false,
+  "events": []
+}

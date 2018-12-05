@@ -1,0 +1,29 @@
+{
+  "id": "9f8ced60-c590-46ab-acf7-1fdf58dca30d",
+  "name": "smalltalk.dialog.sorry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.sorry",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Sinto muito. As vezes comito erros. Vou melhorar."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611244,
+  "fallbackIntent": false,
+  "events": []
+}

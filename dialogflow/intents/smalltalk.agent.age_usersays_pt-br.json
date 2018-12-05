@@ -1,0 +1,98 @@
+[
+  {
+    "id": "7e578968-297e-4d0e-82da-0f153583d47a",
+    "data": [
+      {
+        "text": "me diga sua idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2f3bae8-90ac-4089-866a-1758be243749",
+    "data": [
+      {
+        "text": "qual é sua idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1b7f75d-9683-4c4f-92e7-d8f69da5d767",
+    "data": [
+      {
+        "text": "sua idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "abd9daac-d353-4f18-b8d5-1d44c9a4025c",
+    "data": [
+      {
+        "text": "idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40b0a8d6-d8de-48ac-9309-79cfa6ef2f15",
+    "data": [
+      {
+        "text": "quantos anos você tem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7de433b3-14ef-4d67-a857-ed2c1b817ddf",
+    "data": [
+      {
+        "text": "eu gostaria de saber sua idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44776e89-fab8-4740-aa59-8afabcf57d08",
+    "data": [
+      {
+        "text": "você tem 21 anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d104e86b-f93e-466d-a05b-0c07cdee4b59",
+    "data": [
+      {
+        "text": "quantos anos sua plataforma tem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

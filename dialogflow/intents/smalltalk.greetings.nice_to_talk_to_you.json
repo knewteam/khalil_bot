@@ -1,0 +1,29 @@
+{
+  "id": "3aabd067-81e0-4a40-aabc-37d531fe75cc",
+  "name": "smalltalk.greetings.nice_to_talk_to_you",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.greetings.nice_to_talk_to_you",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Com você também!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611200,
+  "fallbackIntent": false,
+  "events": []
+}

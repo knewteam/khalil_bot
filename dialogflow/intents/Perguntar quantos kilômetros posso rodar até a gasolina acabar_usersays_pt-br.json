@@ -1,0 +1,89 @@
+[
+  {
+    "id": "569ded79-5b18-4305-8c48-1b5391adb774",
+    "data": [
+      {
+        "text": "Sem abastecer dá para ir até aonde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e05cf5a2-d086-4412-b10b-8fc7cafee8f9",
+    "data": [
+      {
+        "text": "Posso ir quanto com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " sem mais gasolina?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0dda5a8e-bae6-49de-9fd8-c99ecd49cd42",
+    "data": [
+      {
+        "text": "Posso rodar quanto sem abastecer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7abb2cc5-5738-4621-a5ca-f275941ca2e6",
+    "data": [
+      {
+        "text": "Esse tanque dá para quantos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4812417a-7be4-4005-8573-38165ff1a4b8",
+    "data": [
+      {
+        "text": "Tenho gasolina para quantos kilômetros?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "80266cda-bc8e-4f0f-85fe-c46ea67f1bde",
+    "data": [
+      {
+        "text": "Quando dá para rodar?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b8ec6d3e-1f95-4c0d-839c-2fa71d85ea56",
+    "data": [
+      {
+        "text": "Quantos kilômetros posso rodar com",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " esse tanque?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

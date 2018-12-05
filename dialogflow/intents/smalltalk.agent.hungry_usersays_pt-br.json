@@ -1,0 +1,98 @@
+[
+  {
+    "id": "574a49f8-e8fe-47ea-9ee8-cbf87a9b78b4",
+    "data": [
+      {
+        "text": "você quer comer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ac041351-3c59-4a49-8363-e1799fe9d1d3",
+    "data": [
+      {
+        "text": "está com fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ec98083-7222-46d0-8d01-9ce1f5a528ee",
+    "data": [
+      {
+        "text": "gostaria de comer alguma coisa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34a2c8d8-15f7-481d-819a-f416f1eca9ea",
+    "data": [
+      {
+        "text": "você está com fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "061e5c4f-c0f6-4c18-a2a2-07ea9f4ff745",
+    "data": [
+      {
+        "text": "você está com tanta fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae6a5e88-e28f-4d00-a658-25d7b78afa3f",
+    "data": [
+      {
+        "text": "você está com muita fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f68b1f12-aebf-4173-a92d-1907ae89b350",
+    "data": [
+      {
+        "text": "acho que você está com fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a700280c-64b9-49e3-945a-688419989596",
+    "data": [
+      {
+        "text": "você está faminto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

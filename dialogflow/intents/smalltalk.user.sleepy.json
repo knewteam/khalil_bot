@@ -1,0 +1,32 @@
+{
+  "id": "bb665d68-34d3-4d70-ac94-d58920f03ac8",
+  "name": "smalltalk.user.sleepy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.sleepy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "Cuidado para não dormir na direção.",
+            "Eu lhe serviria um café mas infelizmente não tenho essa funcionalidade."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611318,
+  "fallbackIntent": false,
+  "events": []
+}

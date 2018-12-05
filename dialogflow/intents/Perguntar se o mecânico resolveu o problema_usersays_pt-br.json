@@ -1,0 +1,57 @@
+[
+  {
+    "id": "fbbd4137-1276-44f9-b4c4-c45b4e5991b4",
+    "data": [
+      {
+        "text": "Consertou o carro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77d8048f-7d50-4252-84c6-a79a0346b0f0",
+    "data": [
+      {
+        "text": "O problema foi resolvido?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5969447f-6c6b-4ebf-bd3b-cd7cddd26b0f",
+    "data": [
+      {
+        "text": "O carro foi consertado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b6c375be-17e4-4456-a628-91e3414385d7",
+    "data": [
+      {
+        "text": "Esse mecânico consertou o carro?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "72e5c5ce-9de2-42a1-935a-8470d814241d",
+    "data": [
+      {
+        "text": "O problema foi resolvido mesmo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

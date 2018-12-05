@@ -1,0 +1,23 @@
+{
+  "id": "e864c1b5-8416-4f43-b660-8fab593ba728",
+  "name": "smalltalk.agent.ready",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.ready",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611220,
+  "fallbackIntent": false,
+  "events": []
+}

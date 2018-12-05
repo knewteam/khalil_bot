@@ -1,0 +1,98 @@
+[
+  {
+    "id": "fa85e6c8-db76-469e-91ad-bcaba6f5fe27",
+    "data": [
+      {
+        "text": "como está sua manhã por enquanto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68ba115c-2907-458f-acdc-4dcde90f1639",
+    "data": [
+      {
+        "text": "como estão as coisas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a52e3b37-e84f-45bd-be90-12c837ad3830",
+    "data": [
+      {
+        "text": "como vai seu dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "acb8439a-5ea8-4843-a5bf-c8ece4830b64",
+    "data": [
+      {
+        "text": "está tudo bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9e61cec4-10f4-44af-bddc-9b774d74ccfd",
+    "data": [
+      {
+        "text": "como vai você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4e375e5-3adc-42ea-a2d0-c7f8fa7fc396",
+    "data": [
+      {
+        "text": "como vão as coisas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98ffe452-22f7-4dc0-ac57-84c77189f134",
+    "data": [
+      {
+        "text": "você está bem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36493374-61df-4f0a-9660-731a06a28f35",
+    "data": [
+      {
+        "text": "como você está se sentindo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

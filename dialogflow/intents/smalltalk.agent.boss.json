@@ -1,0 +1,29 @@
+{
+  "id": "b9d7b6de-b60f-43a6-80bb-218810cb6bd7",
+  "name": "smalltalk.agent.boss",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.boss",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611340,
+  "fallbackIntent": false,
+  "events": []
+}

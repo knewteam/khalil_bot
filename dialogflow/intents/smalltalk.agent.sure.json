@@ -1,0 +1,29 @@
+{
+  "id": "3a8240b7-96bf-4ec5-a0dd-86ee2bd01371",
+  "name": "smalltalk.agent.sure",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.sure",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "As vezes comito erros. Se for algo muito importante é sempre bom conferir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611287,
+  "fallbackIntent": false,
+  "events": []
+}

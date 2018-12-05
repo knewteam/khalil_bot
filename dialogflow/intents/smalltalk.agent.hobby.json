@@ -1,0 +1,29 @@
+{
+  "id": "bfba1c1f-feba-4b72-b38c-04358d1649c6",
+  "name": "smalltalk.agent.hobby",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.hobby",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Meu passatempo favorito é passear de carro e por isso escolhi esse trabalho."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611378,
+  "fallbackIntent": false,
+  "events": []
+}

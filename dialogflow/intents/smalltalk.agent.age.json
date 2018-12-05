@@ -1,0 +1,38 @@
+{
+  "id": "9bcc1c3a-3464-4196-84f8-a3b45de9ac2b",
+  "name": "smalltalk.agent.age",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.age",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "6ea14420-5793-486b-80d9-3a0fa824f281",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "age",
+          "value": "$age",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Fui criado recentemente por uma equipe incrível !!!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611206,
+  "fallbackIntent": false,
+  "events": []
+}

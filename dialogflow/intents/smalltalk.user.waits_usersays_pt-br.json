@@ -1,0 +1,62 @@
+[
+  {
+    "id": "46caf5a2-3805-44ef-b5ec-6f02abd707bf",
+    "data": [
+      {
+        "text": "estou esperando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5c63de1-ba33-4fdc-8309-2db91ce71670",
+    "data": [
+      {
+        "text": "ainda estou esperando",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22b57bea-0f56-4e49-a07e-8f9525653453",
+    "data": [
+      {
+        "text": "vou esperar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3943fb4d-dcec-4d9f-8852-c25e849d73c8",
+    "data": [
+      {
+        "text": "não posso mais esperar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "935dae37-b6d4-425f-8e5f-74b708bb85b2",
+    "data": [
+      {
+        "text": "quanto tempo tenho que esperar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

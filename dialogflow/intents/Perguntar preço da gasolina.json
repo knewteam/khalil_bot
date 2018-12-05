@@ -1,0 +1,41 @@
+{
+  "id": "4bde9dfa-09af-43a1-bfc1-1d1d4e5d65db",
+  "name": "Perguntar preço da gasolina",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bf7b5b1d-19a9-4d38-bad9-acec059fc29d",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": [
+            "A gasolina está custando 4 reais o litro",
+            "4 reais.",
+            "Nessa região o está custando 4 reais.",
+            "Próximo a você tem gasolina por 4 reais."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

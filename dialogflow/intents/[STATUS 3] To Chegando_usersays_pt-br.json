@@ -1,0 +1,45 @@
+[
+  {
+    "id": "c069457a-06c8-4bbe-a129-61bbba0d3868",
+    "data": [
+      {
+        "text": "Khalil, avise que eu estou chegando!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "69f50bae-ba2f-4917-9e1a-fef0525ef78e",
+    "data": [
+      {
+        "text": "Khalil, estou chegando!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f598105d-5511-4354-a642-b60ef2fc8747",
+    "data": [
+      {
+        "text": "Khalil avise ",
+        "userDefined": false
+      },
+      {
+        "text": "xxx",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": " que já estou chegando!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

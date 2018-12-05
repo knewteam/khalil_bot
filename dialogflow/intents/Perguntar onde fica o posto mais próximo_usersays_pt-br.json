@@ -1,0 +1,68 @@
+[
+  {
+    "id": "a0e2a998-9409-4532-a464-4defe94e0bff",
+    "data": [
+      {
+        "text": "Onde fica o posto mais perto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "11e37f2c-4fc5-41ce-bd03-c41e679f49f1",
+    "data": [
+      {
+        "text": "Quero abastecer no posto mais perto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b1fdcc94-91a4-462a-99d4-fb80217c951b",
+    "data": [
+      {
+        "text": "Onde fica o posto mais perto por aqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "33f0c141-8323-4a4e-bad1-d19d4764b9e0",
+    "data": [
+      {
+        "text": "Qual o posto mais perto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f49933f2-99e8-4085-b812-6576a0600cb3",
+    "data": [
+      {
+        "text": "Onde é o posto mais próximo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4e0da772-4717-4ddd-8451-ae23782d9801",
+    "data": [
+      {
+        "text": "Onde fica o posto mais próximo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

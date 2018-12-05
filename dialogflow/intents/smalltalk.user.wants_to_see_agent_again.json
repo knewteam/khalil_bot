@@ -1,0 +1,29 @@
+{
+  "id": "7cbb63e5-a8af-4776-bbf2-3c333215bcbf",
+  "name": "smalltalk.user.wants_to_see_agent_again",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.user.wants_to_see_agent_again",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Também sentirei sua falta."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611231,
+  "fallbackIntent": false,
+  "events": []
+}

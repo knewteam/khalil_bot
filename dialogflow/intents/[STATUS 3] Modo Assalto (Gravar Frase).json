@@ -1,0 +1,37 @@
+{
+  "id": "f853a9b4-c9aa-49b8-b2f2-f4a992d49797",
+  "name": "[STATUS 3] Modo Assalto (Gravar Frase)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0562598c-7d06-4255-9baa-5a98baca757b",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "databaseEntry",
+          "value": "$databaseEntry",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 1000000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": []
+}

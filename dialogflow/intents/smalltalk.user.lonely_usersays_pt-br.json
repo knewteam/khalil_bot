@@ -1,0 +1,74 @@
+[
+  {
+    "id": "012b9544-e2df-408b-8ccf-f4e8f874522c",
+    "data": [
+      {
+        "text": "estou sozinho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8efa7082-c5d5-4c27-bd68-31db4d377bd7",
+    "data": [
+      {
+        "text": "estou muito sozinho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7855bc99-e0f9-47f5-95a6-34341a2613b6",
+    "data": [
+      {
+        "text": "estou tão sozinho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8067b94-0478-44ed-a7fc-c9574f17b1b3",
+    "data": [
+      {
+        "text": "estou muito solitário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37d6bf84-48d4-4a0b-9847-381968cad582",
+    "data": [
+      {
+        "text": "estou me sentindo sozinho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e24c3e7f-0fd5-4ffb-90ff-2b65470e5178",
+    "data": [
+      {
+        "text": "me sinto sozinho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

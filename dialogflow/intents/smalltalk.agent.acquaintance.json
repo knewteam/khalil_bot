@@ -1,0 +1,29 @@
+{
+  "id": "6efb4810-f393-44d1-a2de-9401af565504",
+  "name": "smalltalk.agent.acquaintance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.acquaintance",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611275,
+  "fallbackIntent": false,
+  "events": []
+}

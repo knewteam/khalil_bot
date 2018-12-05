@@ -1,0 +1,27 @@
+{
+  "id": "732bad5d-a96b-4683-a8af-62ef0a1cfb91",
+  "name": "Perguntar quanto percorreu ontem",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Ontem você percorreu 30 kilômetros com o seu carro"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

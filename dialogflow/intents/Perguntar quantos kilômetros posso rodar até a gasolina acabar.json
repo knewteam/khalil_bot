@@ -1,0 +1,27 @@
+{
+  "id": "30f27e19-a7c9-4086-91a6-33f834f38207",
+  "name": "Perguntar quantos kilômetros posso rodar até a gasolina acabar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Você tem gasolina para mais 30 kilômetros"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

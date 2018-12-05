@@ -1,0 +1,29 @@
+{
+  "id": "5fca07cf-5202-43fd-a499-c05ea9f32db5",
+  "name": "smalltalk.agent.hungry",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.hungry",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Enquanto tiver bateria estou muito bem."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611194,
+  "fallbackIntent": false,
+  "events": []
+}

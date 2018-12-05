@@ -1,0 +1,74 @@
+[
+  {
+    "id": "81f05a08-c16a-45cc-8304-b509aca0c34f",
+    "data": [
+      {
+        "text": "não é uma boa hora para conversar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab5c16ad-45cc-48fc-851d-ee2f49ec5a83",
+    "data": [
+      {
+        "text": "não quero conversar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "b3a55061-fe46-4555-9627-5d20d4aa1261",
+    "data": [
+      {
+        "text": "não vou mais conversar com você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92576752-866d-4050-984a-93e05553be03",
+    "data": [
+      {
+        "text": "não quero conversar com você",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92381b2c-7232-4283-a90f-0161ded9602b",
+    "data": [
+      {
+        "text": "vamos parar de conversar um pouco",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4bbdeaa-cc64-4da7-bc44-5693ddd97f93",
+    "data": [
+      {
+        "text": "não estou no clima para conversa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

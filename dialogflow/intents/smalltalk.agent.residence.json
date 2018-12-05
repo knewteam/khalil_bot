@@ -1,0 +1,29 @@
+{
+  "id": "2f8eea17-4343-4ac5-b6e9-b3aadb1a8724",
+  "name": "smalltalk.agent.residence",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.residence",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Eu nasci no Cesar School. Uma faculdade que fica em Recife-Pernambuco. Um  grupo de estudantes me desenvolveu."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611228,
+  "fallbackIntent": false,
+  "events": []
+}

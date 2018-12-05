@@ -1,0 +1,29 @@
+{
+  "id": "40f96be8-8fb9-4bb9-a6e4-3ea7968b8251",
+  "name": "smalltalk.agent.busy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.busy",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611260,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "a5bd1168-b547-43de-886c-dea97ee9e958",
+  "name": "smalltalk.dialog.wrong",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.dialog.wrong",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Desculpe. Vou tentar me corrigir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611197,
+  "fallbackIntent": false,
+  "events": []
+}

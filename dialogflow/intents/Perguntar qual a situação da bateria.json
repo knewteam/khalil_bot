@@ -1,0 +1,27 @@
+{
+  "id": "c5cbfa5a-21d4-45bd-a5ad-f64d61aeafc3",
+  "name": "Perguntar qual a situação da bateria",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Sua bateria está em ótimo estado e não precisa de manutenções."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 750000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

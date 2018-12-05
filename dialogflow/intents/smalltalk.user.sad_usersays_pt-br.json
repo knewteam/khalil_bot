@@ -1,0 +1,110 @@
+[
+  {
+    "id": "57efe7f2-24b1-49cb-a584-5c46e990b65f",
+    "data": [
+      {
+        "text": "estou triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bcf8504-b50a-4c23-95b2-fbd23130ed58",
+    "data": [
+      {
+        "text": "estou de luto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cedcf13-6974-418e-8cd6-a4a3e525e194",
+    "data": [
+      {
+        "text": "estou deprimido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "142423e1-b4ac-43b6-b19d-0d2f79478356",
+    "data": [
+      {
+        "text": "estou me sentindo triste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88ca2531-efd7-4fe0-aebb-0e4efa057d0a",
+    "data": [
+      {
+        "text": "estou irritado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aad62919-3eea-4576-a851-28212f79f286",
+    "data": [
+      {
+        "text": "estou infeliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c5713ce-3541-4698-9c87-fc32a77eaab5",
+    "data": [
+      {
+        "text": "estou tendo um dia ruim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f31e129-f8be-4f60-9239-840b2bd84f8b",
+    "data": [
+      {
+        "text": "quero chorar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "353e78cf-67f8-4dff-8cb0-e0d9655fad13",
+    "data": [
+      {
+        "text": "não estou feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

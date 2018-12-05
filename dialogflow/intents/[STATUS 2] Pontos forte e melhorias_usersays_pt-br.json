@@ -1,0 +1,57 @@
+[
+  {
+    "id": "e38a6ed2-2ad7-40de-9260-7aca5ffb0b5c",
+    "data": [
+      {
+        "text": "Khalil, quais foram nossos pontos fortes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "056d3d55-6dbd-4ee6-b055-123fce077de4",
+    "data": [
+      {
+        "text": "Diga nossos pontos fortes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3419f305-d944-4ed6-b93f-36fffda570f5",
+    "data": [
+      {
+        "text": "Pontos fortes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "36c06dae-707c-44a1-bfe1-23ae8161906a",
+    "data": [
+      {
+        "text": "Pontos fortes e de melhorias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "05d4ca11-8de6-49f8-95fb-d5f02e05db9e",
+    "data": [
+      {
+        "text": "Quais foram nossos pontos fortes e de melhorias ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

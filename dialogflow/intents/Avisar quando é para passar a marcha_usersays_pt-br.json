@@ -1,0 +1,68 @@
+[
+  {
+    "id": "518688e2-1fb5-4d4f-a331-be51101fa0bc",
+    "data": [
+      {
+        "text": "Me ajude a passar a marcha na hora certa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "212905d4-ab62-4809-8360-03933e9d1ab3",
+    "data": [
+      {
+        "text": "Khalil, me avise quando for para passar a marcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "aa37fee9-5a37-4ac3-9a58-022fd07a5418",
+    "data": [
+      {
+        "text": "Queria que você me avisasse quando fosse para mudar a marcha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e530a7d2-ae8e-461b-8ea8-2783c0bce0bc",
+    "data": [
+      {
+        "text": "Me manda passar a marcha na hora certa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5eea53a4-4bd4-4a52-93a1-71d08a88001e",
+    "data": [
+      {
+        "text": "Pode me avisar quando é para eu passar a marcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "236219d9-0195-4fa6-9bda-f410be5eae7b",
+    "data": [
+      {
+        "text": "Me avise quando devo passar a marcha?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

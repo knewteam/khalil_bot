@@ -1,0 +1,29 @@
+{
+  "id": "c55ddb16-9499-4dac-9128-0333081c2a53",
+  "name": "smalltalk.agent.origin",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "smalltalk.agent.origin",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "pt-br",
+          "speech": "Eu fui desenvolvido na Faculdade Cesar School que fica Recife-Pernambuco."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 250000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1493720611370,
+  "fallbackIntent": false,
+  "events": []
+}

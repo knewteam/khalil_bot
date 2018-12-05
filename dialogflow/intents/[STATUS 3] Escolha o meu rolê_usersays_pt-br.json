@@ -1,0 +1,88 @@
+[
+  {
+    "id": "d744b94c-f12a-47cf-ac46-f33eed31a617",
+    "data": [
+      {
+        "text": "Me diga um lugar aleatório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "bf237e2d-4af3-4dee-91cd-fc44effb08e4",
+    "data": [
+      {
+        "text": "Me indique um lugar para ir neste momento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "1d1dfc23-1549-433b-927e-3d5f374e2f5c",
+    "data": [
+      {
+        "text": "Que lugar devo ir?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "21600abe-c05b-43aa-9509-9e8ed9d07b6b",
+    "data": [
+      {
+        "text": "Khalil, me diga um lugar para ir agora!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "74844504-24b0-46e8-bf0a-33a9cdb99bd0",
+    "data": [
+      {
+        "text": "Khalil me diz ",
+        "userDefined": false
+      },
+      {
+        "text": "um",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " role",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "7c4a88f6-63ba-4f1d-9c18-d5af7967f3b0",
+    "data": [
+      {
+        "text": "Khalil, rolê aleatório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "510ca0c7-6cd8-4547-ad1e-df2ece9e6bd5",
+    "data": [
+      {
+        "text": "Khalil, escolha o meu rolê",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

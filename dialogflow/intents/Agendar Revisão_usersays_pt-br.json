@@ -1,0 +1,88 @@
+[
+  {
+    "id": "1d050fd0-a0fb-4584-a026-c4b2a7e0590d",
+    "data": [
+      {
+        "text": "Agenda a revisão do carro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "101153e1-3adf-436b-88fd-2b67cf8eddd1",
+    "data": [
+      {
+        "text": "Marca a revisão do carro",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b67656e8-d33a-43e8-b897-a2c845dfc027",
+    "data": [
+      {
+        "text": "Marca a revisão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "77932057-2791-4ce5-bce4-85aa253b044a",
+    "data": [
+      {
+        "text": "Agenda a revisão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "afce7702-e67a-4a04-bcd1-68a6661153a5",
+    "data": [
+      {
+        "text": "Agenda ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " revisão para mim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "107fe580-1eea-4825-b8d0-0e47aee507dc",
+    "data": [
+      {
+        "text": "Por favor agenda minha revisão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b2b73c17-afe8-43ae-b2cb-d6b8bcd702ab",
+    "data": [
+      {
+        "text": "Agenda minha revisão ae",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
